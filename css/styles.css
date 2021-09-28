@@ -1,0 +1,36 @@
+#logo {
+    text-align: center;
+}
+
+span.text {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.titles {
+    color: #005677;
+    background-color: #C4C4C4;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.dates {
+    font-weight: bold;
+}
+
+footer {
+    font-size: 20px;
+    color: #FFFFFF;
+    background-color: #005677;
+    align-items: center;
+    text-align: center;
+    height: 37px;
+}
+
+.second {
+    height: 30px;
+}
+
+.principal {
+    height: 60px;
+}
